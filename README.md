@@ -21,3 +21,16 @@ What is House of Recipes
 ◦ -View recipes
 ◦-Review and rate recipes
 ◦-Favourite/like some recipes.
+
+
+
+ Technologies/Platforms Used
+◦ Bootstrap and CSS3 to build the UI of the application.
+◦ Bootstrap is very useful in saving up time as it has many
+components ready for use and very extensive documentation.
+◦ Node.js is a server-side platform built on google chrome's
+JavaScript V8 engine for easily building fast and scalable network
+applications. Express.js is a web application framework for Node.js
+◦ We have used MongoDB as the database. It is extremely simple to
+install and implement. MongoDB uses JSON or BSON documents to
+store data.
