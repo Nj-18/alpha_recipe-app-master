@@ -34,3 +34,16 @@ applications. Express.js is a web application framework for Node.js
 ◦ We have used MongoDB as the database. It is extremely simple to
 install and implement. MongoDB uses JSON or BSON documents to
 store data.
+
+
+
+
+Project Scope
+◦ The options are never-ending. Basically, the whole World is your
+cookbook. There are hundreds and thousands of recipes online, which
+gives you an advantage of trying out new recipes and improvising without
+buying expensive cookbooks.
+◦ A visual medium for cooking always works wonders for people like me,
+who aren't exactly gifted in the cooking department. Online videos show
+you step-by-step instructions on how something is made that definitely
+holds your interest better. 
